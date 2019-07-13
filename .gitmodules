@@ -1,0 +1,3 @@
+[submodule "src/utils/fanfou-sdk"]
+	path = src/utils/fanfou-sdk
+	url = git@github.com:LitoMore/fanfou-sdk-weapp.git
